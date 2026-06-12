@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![DP Education IT Campus](https://dpeducation.lk/en/assets/images/brands/en/it-campus.png)
 
 # Expenz - Application 07 ⚡️
@@ -44,3 +45,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## What you will create
 
 ![Finished App](https://github.com/HGSChandeepa/Expenz--App-07-DP-Education/blob/main/assets/images/app.png)
+=======
+# Expenz-app
+>>>>>>> ab61b74c8e475dbc2fa5c96e8c58c14a7b856105
